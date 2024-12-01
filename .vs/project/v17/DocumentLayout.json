@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yunso\\Desktop\\\uCEF4\uADF8\\\uD140\uD504\uB85C\uC81D\uD2B8\\project\\team-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49183138-5E67-4C29-AC14-09161AF7A084}|project\\project.vcxproj|C:\\Users\\yunso\\Desktop\\\uCEF4\uADF8\\\uD140\uD504\uB85C\uC81D\uD2B8\\project\\team-project\\project\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49183138-5E67-4C29-AC14-09161AF7A084}|project\\project.vcxproj|solutionrelative:project\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\yunso\\Desktop\\\uCEF4\uADF8\\\uD140\uD504\uB85C\uC81D\uD2B8\\project\\team-project\\project\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "project\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\yunso\\Desktop\\\uCEF4\uADF8\\\uD140\uD504\uB85C\uC81D\uD2B8\\project\\team-project\\project\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "project\\\uC18C\uC2A4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T16:47:04.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
